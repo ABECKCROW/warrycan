@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/warrycan/static/css/main.f855e6bc.css",
+    "main.js": "/warrycan/static/js/main.8cafa4b1.js",
+    "static/js/453.905e226b.chunk.js": "/warrycan/static/js/453.905e226b.chunk.js",
+    "service-worker.js": "/warrycan/service-worker.js",
+    "static/media/logo.svg": "/warrycan/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/warrycan/index.html",
+    "main.f855e6bc.css.map": "/warrycan/static/css/main.f855e6bc.css.map",
+    "main.8cafa4b1.js.map": "/warrycan/static/js/main.8cafa4b1.js.map",
+    "453.905e226b.chunk.js.map": "/warrycan/static/js/453.905e226b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8cafa4b1.js"
+  ]
+}
