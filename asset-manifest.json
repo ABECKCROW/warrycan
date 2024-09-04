@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/warrycan/static/css/main.f855e6bc.css",
-    "main.js": "/warrycan/static/js/main.8cafa4b1.js",
+    "main.js": "/warrycan/static/js/main.23e27495.js",
+    "static/js/952.c614ba25.chunk.js": "/warrycan/static/js/952.c614ba25.chunk.js",
     "static/js/453.905e226b.chunk.js": "/warrycan/static/js/453.905e226b.chunk.js",
     "service-worker.js": "/warrycan/service-worker.js",
-    "static/media/logo.svg": "/warrycan/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/_interop_require_wildcard.cjs": "/warrycan/static/media/_interop_require_wildcard.962c7d3c96e33f19b8f7.cjs",
     "index.html": "/warrycan/index.html",
+    "static/media/_interop_require_default.cjs": "/warrycan/static/media/_interop_require_default.9765e935c5a6e5dec7f6.cjs",
     "main.f855e6bc.css.map": "/warrycan/static/css/main.f855e6bc.css.map",
-    "main.8cafa4b1.js.map": "/warrycan/static/js/main.8cafa4b1.js.map",
+    "main.23e27495.js.map": "/warrycan/static/js/main.23e27495.js.map",
+    "952.c614ba25.chunk.js.map": "/warrycan/static/js/952.c614ba25.chunk.js.map",
     "453.905e226b.chunk.js.map": "/warrycan/static/js/453.905e226b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8cafa4b1.js"
+    "static/js/main.23e27495.js"
   ]
 }
